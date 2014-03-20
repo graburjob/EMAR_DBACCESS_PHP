@@ -37,7 +37,6 @@ if (isset($_GET["patientID"])) {
             
             // success
             $response["success"] = 1;
-
             // user node
             $response["patient"] = array();
 
